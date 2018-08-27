@@ -1,0 +1,11 @@
+{
+  "name": "PunkTwiBot",
+  "version": "1.0.0",
+  "description": "Stuff",
+  "main": "bot.js",
+  "author": "PunkTwi",
+  "dependencies": {
+    "discord.js": "https://github.com/discordjs/discord.js/",
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+  }
+}
