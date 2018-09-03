@@ -37,27 +37,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                 });
                 break;
 
-            case 'art':
-                bot.sendMessage({
-                    to: channelID,
-                    message: 'ARTS IS FOR THE TOFFEE!!!!~'
-                })
-
-                break;
-            case 'help':
-                bot.sendMessage({
-                    //to: channelID,
-                    message: 'Currently In development...'
-
-                })
-
-
-                break;
-
-            case 'avatar':
-
-                break;
-
+           
 
             // Just add any case commands if you want to..
         }
